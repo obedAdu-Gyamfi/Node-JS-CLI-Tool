@@ -1,0 +1,10 @@
+
+# Text editor configs
+
+*.vscode
+*.dist
+
+
+
+#Secrete keys
+.env

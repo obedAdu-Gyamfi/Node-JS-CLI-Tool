@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_cli_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "bin": {
+    "node_cli": "index.js"
+  },
+  "keywords": [],
+  "author": "Obed Adu-Gyamfi",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
